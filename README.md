@@ -15,6 +15,6 @@ It is the tribute page for Mahatma Gandhi.
 # Task-3:
 **To-Do app**
 
-This To-Do web app adds, edits, and deletes the To-Dos.
+It is the To-Do web app that adds, edits, and deletes the To-Dos.
 
 These tasks are implemented by using HTML, CSS, and JavaScript.
