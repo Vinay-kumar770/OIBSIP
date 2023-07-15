@@ -1,14 +1,20 @@
 # OIBSIP
-It is the oasisinfobyte tasks repository. It contains the tasks that I completed for the oasisinfobye internship.
+It is the Oasisinfobyte tasks repository. It contains the tasks that I completed for the Oasisinfobye internship.
 
 It contains 3 tasks.
 
 # Task-1:
-     **Calculator** 
+**Calculator** 
+     
+It is a mathematical Calculator. Through this, we can perform mathematical operations like addition, subtraction, multiplication division, and modulus.
 # Task-2:
-     **Tribute Page**
+**Tribute Page**
+
+It is the tribute page for Mahatma Gandhi.
 
 # Task-3:
-     **To-Do app**
+**To-Do app**
 
-These tasks are implemented by using HTMl ,CSS and JavaScript.
+This To-Do web app adds, edits, and deletes the To-Dos.
+
+These tasks are implemented by using HTML, CSS, and JavaScript.
