@@ -4,5 +4,11 @@ It is the oasisinfobyte tasks repository. It contains the tasks that I completed
 It contains 3 tasks.
 
 # Task-1:
-     # Calculator
+     **Calculator** 
+# Task-2:
+     **Tribute Page**
 
+# Task-3:
+     **To-Do app**
+
+These tasks are implemented by using HTMl ,CSS and JavaScript.
